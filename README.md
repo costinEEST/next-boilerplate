@@ -1,5 +1,9 @@
 A boilerplate for starting a NextJS project using Typescript, Tailwind, ESLint and Jest.
 
-### Thanks,
+```shell
+npx create-next-app --example https://github.com/costinEEST/next-boilerplate
+```
+
+#### Thanks,
 - [Zaid A](https://github.com/beatzball/create-next-tailwind-example-app) for the Tailwind config.
 - [Paulin Trognon](https://github.com/paulintrognon/next-typescript) for the ESLint config.
