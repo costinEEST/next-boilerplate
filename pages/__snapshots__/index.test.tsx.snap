@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page should match the snapshot 1`] = `
+<div
+  className="text-center"
+>
+  This is the Home Page
+</div>
+`;
