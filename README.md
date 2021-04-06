@@ -1,4 +1,4 @@
-A boilerplate for starting a NextJS project using Typescript, Tailwind, ESLint and Jest.
+The template includes Typescript, Tailwind, ESLint and Jest.
 
 ```shell
 npx create-next-app --example https://github.com/costinEEST/next-boilerplate
