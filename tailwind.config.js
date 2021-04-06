@@ -8,10 +8,8 @@ module.exports = {
   purge: {
     enabled: true,
     content: [
-      './components/**/*.tsx',
-      './pages/**/*.tsx',
-      './components/**/*.js',
-      './pages/**/*.js',
+      './components/**/*.{js,ts,jsx,tsx}'
+      './pages/**/*.{js,ts,jsx,tsx}',
     ],
   },
   theme: {
